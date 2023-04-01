@@ -141,7 +141,7 @@ svg {
     flex-direction: column;
     width: 100vw;
     justify-content: start;
-    align-items: start;
+    align-items: center;
   }
   .attribution {
     font-size: 0.5rem;
